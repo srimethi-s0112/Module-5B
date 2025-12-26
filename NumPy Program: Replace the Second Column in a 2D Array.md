@@ -34,7 +34,8 @@ print(np.insert(c,1,b,axis=1))
 ```
 
 ## Output
-![Screenshot 2025-05-04 214736](https://github.com/user-attachments/assets/f0ee9e57-f097-435a-828e-0471fd889cfe)
+<img width="848" height="250" alt="image" src="https://github.com/user-attachments/assets/6d22045a-1413-4fd2-b377-8b37a296e102" />
+
 
 
 ## Result

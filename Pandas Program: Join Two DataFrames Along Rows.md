@@ -54,4 +54,4 @@ print(result_data)
 ## Result
 Thus, the Python program has been successfully created and executed successfully to join the 
 two DataFrames row-wise using pd.concat() and all records from both DataFrames were 
-included in the final output .
+included in the final output.

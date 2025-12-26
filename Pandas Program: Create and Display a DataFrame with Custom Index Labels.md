@@ -41,7 +41,8 @@ print(df)
 ```
 
 ## Output
-![Screenshot 2025-05-04 215023](https://github.com/user-attachments/assets/b3868acf-0292-43c4-9096-1d948bf7a910)
+<img width="828" height="343" alt="image" src="https://github.com/user-attachments/assets/527a7dd8-07db-4548-8b5c-dce0e2f38025" />
+
 
 
 ## Result

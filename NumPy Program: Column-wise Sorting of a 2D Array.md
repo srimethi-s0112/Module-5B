@@ -29,7 +29,8 @@ print(np.sort(a,axis=0))
 ```
 
 ## Output
-![Screenshot 2025-05-04 214012](https://github.com/user-attachments/assets/0f7c6143-fef0-4527-bffa-1d8aad723a40)
+<img width="718" height="296" alt="image" src="https://github.com/user-attachments/assets/213af903-ef5b-4e25-b6c7-bce0e4a93644" />
+
 
 ## Result
 Thus the python program for sorting each column in numpy has been implemented and executed 

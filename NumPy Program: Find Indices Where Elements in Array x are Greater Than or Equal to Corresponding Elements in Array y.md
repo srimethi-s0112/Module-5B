@@ -30,7 +30,7 @@ print(np.where(l1==l2))
 ```
 
 ## Output
-![Screenshot 2025-05-04 214421](https://github.com/user-attachments/assets/d7eaddfd-7000-4acf-b7e1-b4100e1db3bb)
+<img width="725" height="196" alt="image" src="https://github.com/user-attachments/assets/6807248d-9928-4bdc-942e-4570007a2be9" />
 
 ## Result
 Thus the python program for element wise comparison between two numpy array has been 
